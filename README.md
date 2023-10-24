@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![codewars](https://www.codewars.com/users/michael2327/badges/small)](https://www.codewars.com/users/michael2327)
+[![codewars](https://www.codewars.com/users/michael2327/badges/large)](https://www.codewars.com/users/michael2327)   
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=milk1337)](https://github.com/michael2327/leetcode-stats)
