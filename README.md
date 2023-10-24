@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/michael2327)
+[![codewars](https://www.codewars.com/users/michael2327/badges/small)](https://www.codewars.com/users/michael2327)
